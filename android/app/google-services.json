@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716785403572",
+    "project_id": "foodie-fly-2c89d",
+    "storage_bucket": "foodie-fly-2c89d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716785403572:android:9387b7ca2fc981dfe939e1",
+        "android_client_info": {
+          "package_name": "com.example.foodie_fly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2uSyUryx7_TTwgmrv54qjhm8wsKKfBnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
